@@ -2,29 +2,15 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning AWS cloud.
 - 📫 How to reach me merveozdes@hotmail.com
+- :bulb: I'm interested in all things data: **Big Data, Machine Learning, Data Science**
 <!---
 merveozdes/merveozdes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there, I am Yunus Serhat Bıçakçı 👋 
 
 
-[![GitHub Badge](https://img.shields.io/github/followers/yunusserhat?style=social)](https://github.com/yunusserhat?tab=followers)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com.tr/citations?user=2FSN2voAAAAJ&hl=en)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunusserhat.yunusserhat)
 
 
-<p align="left"> <a href="https://twitter.com/yunusserhat" target="blank"><img src="https://img.shields.io/twitter/follow/yunusserhat?logo=twitter&style=for-the-badge" alt="yunusserhat" /></a> </p>
-
-
-## Abstract
-
-I'm a data scientist passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source.
-
-- 🌱 I’m currently learning **AI**
-- 💬 Ask me about **Data Science**
-- 📫 How to reach [me](https://www.yunusserhat.com)
-- :bulb: I'm interested in all things data: **Big Data, Machine Learning, Data Science**
 
 
 ### Connect with me:
